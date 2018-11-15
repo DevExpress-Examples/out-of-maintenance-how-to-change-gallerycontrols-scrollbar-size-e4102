@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomGallery.cs](./CS/DxSample/Gallery/CustomGallery.cs) (VB: [CustomGallery.vb](./VB/DxSample/Gallery/CustomGallery.vb))
+* [CustomGalleryControl.cs](./CS/DxSample/Gallery/CustomGalleryControl.cs) (VB: [CustomGalleryControl.vb](./VB/DxSample/Gallery/CustomGalleryControl.vb))
+* [CustomGalleryViewInfo.cs](./CS/DxSample/Gallery/CustomGalleryViewInfo.cs) (VB: [CustomGalleryViewInfo.vb](./VB/DxSample/Gallery/CustomGalleryViewInfo.vb))
+<!-- default file list end -->
 # How to change GalleryControl's scrollbar size
 
 
